@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 Edad: 26 años<br><br>Carrera: Programación<br> <br>Curso: Full Stack Developer
 
 
