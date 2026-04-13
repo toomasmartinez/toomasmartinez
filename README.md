@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Edad: 26 años<br><br>Carrera: Programación<br> <br>Curso: Full Stack Developer
+Edad: 27 años<br><br>Carrera: Programación<br> <br>Curso: Full Stack Developer
 
 
 ## 🌐 Redes sociales:
