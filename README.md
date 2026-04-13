@@ -2,7 +2,7 @@
 Edad: 26 años<br><br>Carrera: Programación<br> <br>Curso: Full Stack Developer
 
 
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/toomasmartinez07/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tomas.martinez.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tomas-martinez-18a890166/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tomgmartinez07) 
 
 # 💻 Tech Stack:
